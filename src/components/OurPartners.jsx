@@ -14,7 +14,7 @@ const partners = [
   },
   {
     name: "JL Foundation",
-    logo: "./public/Children+Community.png",
+    logo: "./Children+Community.png",
   },
   {
     name: "Rotary International",

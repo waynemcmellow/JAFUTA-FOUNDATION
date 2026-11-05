@@ -101,7 +101,7 @@ const DonateDirectly = () => {
             
             <div className="mt-10 flex justify-center md:justify-start">
               <img
-                src="./public/Donating.png"
+                src="./Donating.png"
                 alt="Verified organization badge"
                 className="h-auto w-52 object-contain"
               />

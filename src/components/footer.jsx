@@ -17,7 +17,7 @@ export default function Footer() {
           </p>
 
           <img
-            src="./public/Jafuta-candid-logo (1).png"
+            src="./Jafuta-candid-logo (1).png"
             alt="Silver Transparency 2026 Candid badge"
             className="mt-12 w-[202px] h-[183px] object-contain"
           />
@@ -78,7 +78,7 @@ export default function Footer() {
           </div>
         </div>
 
-        {/* Column 3: About Links */}
+       
         <div>
           <h2 className="text-2xl mb-6">About</h2>
 
@@ -92,7 +92,7 @@ export default function Footer() {
           </ul>
         </div>
 
-        {/* Column 4: Projects Links */}
+        
         <div>
           <h2 className="text-2xl mb-6">Projects</h2>
 
@@ -132,7 +132,7 @@ export default function Footer() {
 
       </div>
 
-      {/* Copyright */}
+      
       <div className="text-center mt-12">
         © 2026 Jafuta Foundation
       </div>

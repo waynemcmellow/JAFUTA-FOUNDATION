@@ -59,7 +59,7 @@ function DonateMethods() {
            
             <div className="mb-4 flex h-[67px] items-center justify-center">
               <img
-                src="./public/Trustbridge+Logo+-+Jafuta+site.webp"
+                src="./Trustbridge+Logo+-+Jafuta+site.webp"
                 alt="TrustBridge Global logo"
                 className="max-h-[60px] max-w-[220px] object-contain"
               />

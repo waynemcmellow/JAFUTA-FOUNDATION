@@ -47,7 +47,7 @@ export default function Vision() {
        
         <div>
           <img
-            src="./women-nonprofit-skills.png"
+            src="./women-nonprofit-skills.png" style={{'backgroundImage': 'url("./students.png.png")' }}
             alt="Jafuta Foundation community members"
             className="pr-10 w-full h-[500px] md:h-[600px] object-cover object-center"
           />

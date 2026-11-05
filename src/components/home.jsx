@@ -7,7 +7,7 @@ import Contact from "./contact";
 const Home = () => {
   return (
     <main>
-      <section className="relative flex min-h-screen flex-col items-start justify-start bg-[url('./students.png.png')] bg-cover bg-center bg-no-repeat pt-50">
+      <section className="relative flex min-h-screen flex-col items-start justify-start bg-[url('./students.png.png')] bg-cover bg-center bg-no-repeat pt-50" style={{'backgroundImage': 'url("./students.png.png")' }}>
         <div className="absolute inset-0 bg-black/40" aria-hidden="true" />
         <h1 className="relative z-10 w-3/4 p-5 text-6xl font-bold leading-normal text-white pt-40">
           Empowering Rural Communities Through Action.

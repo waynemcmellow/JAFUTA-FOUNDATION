@@ -40,7 +40,7 @@ function AppContent() {
         
         <Link to="/" aria-label="Jafuta Foundation home" className="mr-auto shrink-0">
           <img
-            src="/Jafuta%20logo.webp"
+            src="./Jafuta%20logo.webp"
             alt="Jafuta Foundation Logo"
             className=" h-16 w-16 object-contain sm:h-40 sm:w-40"
           />

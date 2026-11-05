@@ -51,27 +51,27 @@ const Home = () => {
         </div>
       </section>
        <Impact
-        image="./public/women-africa-hero-image.png"
+        image="./women-africa-hero-image.png"
         title="Women & Youth Empowerment"
         description="Through deepened impact in gender empowerment, girls’ dignity, education, scholarships, and vocational skills training, Jafuta Foundation creates pathways for women and young people to build confidence and develop meaningful livelihoods."
         buttonText="Learn More"
       />
       <Impact
-        image="./public/boys-school-africa-nonprofit.png"
+        image="./boys-school-africa-nonprofit.png"
         title="Education & Digital Access"
         description="We strengthen rural education through supplementary and informal learning, teacher development & training, learning resources, scholarships, and access to technology—bridging the digital divide and expanding education opportunities for rural children and youth. "
         buttonText="Learn More"
         reverse={true}
       />
       <Impact
-        image="./public/IMG_3448.png"
+        image="./IMG_3448.png"
         title="Water, Sanitation (WASH) & Health"
         description="Improving health and livelihoods by expanding access to solar-powered boreholes/wells, clean and accessible water points, safe sanitation, hygiene education, mobile health clinics, and mental health education and counselling within rural communities"
         buttonText="Learn More"
       />
 
       <Impact
-        image="./public/woman-garden-africa+(1).webp"
+        image="./woman-garden-africa+(1).webp"
         title="Livelihoods & Food Security"
         description="Our Livelihoods & Food Security Programme supports communities through nutritional community gardens, climate-smart agriculture, and the growing and distribution of food-bearing and indigenous trees."
         buttonText="Learn More"
@@ -79,7 +79,7 @@ const Home = () => {
       />
 
       <Impact
-        image="./public/Waterhole+maintenance+in+surround+national+Parks.png"
+        image="./Waterhole+maintenance+in+surround+national+Parks.png"
         title="Conservation & Community Co-Existence"
         description="We protect wildlife while supporting the communities that live alongside it. Through education, conflict-mitigation, habitat restoration, and conservation-linked livelihoods, we can help people and wildlife to better coexist safely and sustainably."
         buttonText="Learn More"
@@ -87,7 +87,7 @@ const Home = () => {
       />
 
       <Impact
-        image="./public/Batoka-creatives-beads.png"
+        image="./Batoka-creatives-beads.png"
         title="Creativity, Arts & Culture"
         description="From deep cultural roots to contemporary creative talent, we celebrate Zimbabwe’s identity through artistic and visual expression."
         buttonText="Learn More"

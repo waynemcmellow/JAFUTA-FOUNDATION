@@ -3,21 +3,21 @@ const teamMembers = [
     id: 1,
     name: "Gail van Jaarsveldt",
     role: "FOUNDER & CHIEF EXECUTIVE OFFICER",
-    image: "./public/Gail+Image+1.png",
+    image: "./Gail+Image+1.png",
    
   },
   {
     id: 2,
     name: "Minenhle Moyo",
     role: "CHIEF OPERATIONS OFFICER",
-    image: "./public/Minenhle+Moyo.png",
+    image: "./Minenhle+Moyo.png",
    
   },
   {
     id: 3,
     name: "Sipho Moyo",
     role: "OUTREACH DIRECTOR",
-    image: "./public/Sipho+Moyo+1.png",
+    image: "./Sipho+Moyo+1.png",
     description: "Building strong partnerships and supporting community initiatives.",
   },
 
@@ -25,7 +25,7 @@ const teamMembers = [
     id: 4,
     name: "Courtney Connolly",
     role: "EDUCATION DIRECTOR & BOARD SECRETARY",
-    image: "./public/Courtney+Connelly.png",
+    image: "./Courtney+Connelly.png",
     
   },
 
@@ -33,7 +33,7 @@ const teamMembers = [
     id: 5,
     name: "Jacqueline Gurajena",
     role: "HUMAN CAPITAL & WOMEN EMPOWERMENT PROGRAMS DIRECTOR",
-    image: "./public/Sipho+Moyo.png",
+    image: "./Sipho+Moyo.png",
     
   },
 
@@ -41,7 +41,7 @@ const teamMembers = [
     id: 6,
     name: "Tsitsi Mposiwa",
     role: "COUNSELLOR & GENDER CHAMPION",
-    image: "./public/Tsitsi+Mposiwa.png",
+    image: "./Tsitsi+Mposiwa.png",
     
   },
 ];

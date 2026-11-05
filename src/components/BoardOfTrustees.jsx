@@ -3,12 +3,12 @@ const trustees = [
   {
     id: 1,
     name: "Benoit Fayd'herbe",
-    image: "./public/Benoit+Fayd'herbe.png",
+    image: "./Benoit+Fayd'herbe.png",
   },
   {
     id: 2,
     name: "Malcolm Ainscough",
-    image: "./public/Malcolm+Ainscough.png",
+    image: "./Malcolm+Ainscough.png",
   },
   {
     id: 3,
@@ -19,7 +19,7 @@ const trustees = [
   {
     id: 4,
     name: "Joshua Magaba",
-    image: "./public/Joshua+Magaba.png",
+    image: "./Joshua+Magaba.png",
   },
 
   {

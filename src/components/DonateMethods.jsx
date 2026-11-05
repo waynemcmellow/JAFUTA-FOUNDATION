@@ -2,13 +2,13 @@
 const paymentMethods = [
   {
     name: "PayPal",
-    logo: "./public/PayPal_Logo2014.webp",
+    logo: "./PayPal_Logo2014.webp",
     button: "Donate via PayPal",
     link: "YOUR_PAYPAL_DONATION_LINK",
   },
   {
     name: "Givebutter",
-    logo: "./public/givebutter-logo+(1).webp",
+    logo: "./givebutter-logo+(1).webp",
     button: "Donate via Givebutter",
     link: "YOUR_GIVEBUTTER_DONATION_LINK",
   },

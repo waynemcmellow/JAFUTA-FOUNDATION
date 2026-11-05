@@ -2,15 +2,15 @@
 function Story() {
   const storyImages = [
     {
-      src: "./public/man-worker-africa.png",
+      src: "./man-worker-africa.png",
       alt: "Young man participating in a community project",
     },
     {
-      src: "./public/girl-school-africa.png",
+      src: "./girl-school-africa.png",
       alt: "Young people learning digital skills",
     },
     {
-      src: "./public/woman-sewing-africa.png",
+      src: "./woman-sewing-africa.png",
       alt: "Community member working on a practical project",
     },
   ];

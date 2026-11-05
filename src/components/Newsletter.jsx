@@ -25,10 +25,10 @@ function Newsletter() {
         backgroundImage: "url('./public/kids-play-nonprofit.png')",
       }}
     >
-      {/* Dark overlay */}
+      
       <div className="absolute inset-0 bg-black/50"></div>
 
-      {/* Content */}
+      
       <div className="relative z-10 w-full max-w-3xl text-center text-white">
         <h2 className="mb-4 text-3xl font-semibold md:text-4xl">
           Subscribe to our newsletter.

@@ -4,7 +4,7 @@ const newsletters = [
     id: 1,
     date: "April 2026",
     title: "New Beginnings & Big Dreams",
-    image: "./public/Children-africa-school-JafutaFoundation.png",
+    image: "./Children-africa-school-JafutaFoundation.png",
     description:
       "It's hard to believe we are already in April - the year is flying by! And what a start it has been. We hit the ground running in January (and we haven't stopped yet!) as the new school year began.There is something incredibly special about this time of year. Watching our scholarship students - both new and returning - receive their uniforms and school supplies is always a deeply moving moment.",
     link: "#",
@@ -13,7 +13,7 @@ const newsletters = [
     id: 2,
     date: "Mar 2026",
     title: "2025 Annual Report",
-    image: "./public/Jafuta+2025+Annual+Report.png",
+    image: "./Jafuta+2025+Annual+Report.png",
     description:
       "The 2025 financial year was marked by consolidation, measurable impact, and strengthened institutional maturity for Jafuta Foundation. Operating in complex rural communities in the Chidobe and Matetsi Wards of Matabeleland North, , the Foundation continued to deliver high-impact, community-driven programmes aligned with its mission:",
     link: "#",
@@ -23,7 +23,7 @@ const newsletters = [
     id: 3,
     date: "December 2025",
     title: "Jafuta Foundation 2025 Year End Reflection",
-    image: "./public/boy_boxer_africa.webp",
+    image: "./boy_boxer_africa.webp",
     description:
       "As we close out 2025, we do so with full hearts and deep gratitude. This has been a year of remarkable progress on the ground-made possible by the belief,generosity and encouragement of our supporters, partners, and friends.",
     link: "#",
@@ -33,7 +33,7 @@ const newsletters = [
     id: 4,
     date: "Sept 2025",
     title: "Celebrating our Batoka Creatives!",
-    image: "./public/Batoka-creatives-beads.png",
+    image: "./Batoka-creatives-beads.png",
     description:
       "As we cross into the second half of the year, it’s incredible to reflect on how much has already happened — and how busy our team on the ground has been!",
     link: "#",

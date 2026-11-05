@@ -3,7 +3,7 @@ import React from "react";
 const storySections = [
   {
     title: "The People",
-    image: "./public/Girls_sports_africa.png",
+    image: "./Girls_sports_africa.png",
     imageAlt: "Children playing together in a rural community",
     text: (
       <p>
@@ -19,7 +19,7 @@ const storySections = [
   },
   {
     title: "The Reality",
-    image: "./public/kids-play-nonprofit.png",
+    image: "./kids-play-nonprofit.png",
     imageAlt: "Children facing educational challenges in a rural community",
     text: (
       <ul className="list-disc space-y-3 pl-10">

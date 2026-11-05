@@ -22,7 +22,7 @@ function Newsletter() {
       className="relative flex min-h-[420px] items-center
       justify-center bg-cover bg-center px-4 py-12"
       style={{
-        backgroundImage: "url('./public/kids-play-nonprofit.png')",
+        backgroundImage: "url('./kids-play-nonprofit.png')",
       }}
     >
       

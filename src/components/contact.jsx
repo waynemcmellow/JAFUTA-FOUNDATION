@@ -38,7 +38,7 @@ export default function Contact() {
       <section
         className="relative min-h-[370px] overflow-hidden bg-cover bg-center"
         style={{
-          backgroundImage: "url('./public/Batoka-creatives-beads.png')",
+          backgroundImage: "url('./Batoka-creatives-beads.png')",
         }}
       >
        

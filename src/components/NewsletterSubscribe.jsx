@@ -17,7 +17,7 @@ export default function NewsletterSubscribe() {
     <section
       className="flex min-h-[427px] items-center justify-center bg-cover bg-center px-4 py-10"
       style={{
-        backgroundImage: "url('./kids-play-nonprofit.png')",
+        backgroundImage: "url('./kids-play-nonprofit.webp')" ,
       }}
     >
       <div className="w-full max-w-[523px] bg-[#eee5da] px-8 py-5 text-center sm:px-12">
